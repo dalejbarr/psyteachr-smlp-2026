@@ -526,7 +526,7 @@ On a weekend trip to Islay (2019), Lisa DeBruine taught us to write books in `bo
 - start small, move incrementally; this is a long-term project
 - don't be the sole source of support: you will burn out
   - did I mention you need a team?
-- remember: by ignoring these things you create massive invisible labor that **someone is currently doing** (usually supervisor or ECR)
+- remember: **someone is already doing** the massive invisible work you are not teaching
 - give students a taste of what they are missing; this will spark demand that you can then **leverage against timid administrators**
   - "if I were allowed, I would be teaching things in a different way [link to PsyTeachR.github.io]😉, please talk to your student rep and mention it in your course feedback"
 
