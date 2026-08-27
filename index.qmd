@@ -267,7 +267,7 @@ knitr::kable(d_s02 |> slice(1:10))
   - `RED-red.png` = congruent
 - response time must be computed by comparing adjacent `DISPLAY_ON` and `VOICE_KEY` timestamps
 - we need to get rid trials with (1) voice key failure; and (2) inaccurate responses
-  - but to calculate accuracy we have to extract word identity and font color and combine with`transcript.csv` data
+  - but to calculate accuracy we have to extract word identity and font color and combine with `transcript.csv` data
 
 :::
 
