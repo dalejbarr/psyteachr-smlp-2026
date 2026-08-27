@@ -99,13 +99,13 @@ csl: apa7.csl
 
 ::::
 
-## University of California, Riverside
+## University of California, Riverside (2002-2010)
 
 ![](img/ucr.png){fig-align="center"}
 
 - MAMA journal club run by Dan Ozer, David Funder, and Bob Rosenthal
-- Chandra Reynolds introduced me to "Hierarchical Linear Modeling"
-- In 2006 Doug Davidson (MPI-NL) introduced me to `lme4`
+- 2003: Chandra Reynolds introduced me to "Hierarchical Linear Modeling"
+- 2006: Doug Davidson (MPI-NL) introduced me to `lme4`
 
 
 ## glasgow (2010)
@@ -535,12 +535,6 @@ On a weekend trip to Islay (2019), Lisa DeBruine taught us to write books in `bo
   - "if I were allowed, I would be teaching things in a different way [link to PsyTeachR.github.io]😉, please talk to your student rep and mention it in your course feedback"
 
 # it's a long process full of frustration... but the reward is more than worth it!
-
-::: {.notes}
-
-**in the meantime, you can buy tissues in bulk at your local CostCo...**
-
-:::
 
 ## References
 
