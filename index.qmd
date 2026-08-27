@@ -251,10 +251,6 @@ d_trc |>
 ```{r}
 set.seed(1451)
 d_s02 <- read_csv("fake-data/S02.csv", col_types = "iicc")
-.dvk <- d_s02[["data"]][d_s02[["event"]] == "VOICE_KEY"]
-d_s02[["data"]][d_s02[["event"]] == "VOICE_KEY"] <-
-  rnorm(length(.dvk), mean = 800, sd = 40) |> round(0)
-d_s02[["data"]][10] <- NA
 knitr::kable(d_s02 |> slice(1:10))
 ```
 
